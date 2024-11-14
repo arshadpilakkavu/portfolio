@@ -1,2 +1,2 @@
-# portfolio
-static web
+# Portfolio
+A Responsive Portfolio
